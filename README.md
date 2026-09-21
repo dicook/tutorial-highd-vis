@@ -22,11 +22,11 @@ Background: Participants should have a good working knowledge of R, and some bac
 |30|	Understanding clusters in data using visualisation|
 |30|	Building better classification models with visual input|
 
-[Session 1 Slides](https://dicook.github.io/tutorial_highd_vis/slides1.html)
+[Session 1 Slides](https://dicook.github.io/tutorial-highd-vis/slides1.html)
 
-[Session 2 Slides](https://dicook.github.io/tutorial_highd_vis/slides2.html)
+[Session 2 Slides](https://dicook.github.io/tutorial-highd-vis/slides2.html)
 
-[Zip file of materials](https://dicook.github.io/tutorial_highd_vis/tutorial.zip)
+[Zip file of materials](https://dicook.github.io/tutorial-highd-vis/tutorial.zip)
 
 ## Getting started
 
@@ -42,14 +42,14 @@ Ideally, you install this package from GitHub:
 remotes::install_github("casperhart/detourr")
 ```
 
-2. Download the [Zip file of materials](https://dicook.github.io/tutorial_highd_vis/tutorial.zip) to your laptop, and unzip it. 
+2. Download the [Zip file of materials](https://dicook.github.io/tutorial-highd-vis/tutorial.zip) to your laptop, and unzip it. 
 
-3. Download just the R scripts, [slides1.R](https://dicook.github.io/tutorial_highd_vis/slides1.R), [slides2.R](https://dicook.github.io/tutorial_highd_vis/slides2.R)
+3. Download just the R scripts, [slides1.R](https://dicook.github.io/tutorial-highd-vis/slides1.R), [slides2.R](https://dicook.github.io/tutorial-highd-vis/slides2.R)
 
 4. Open your RStudio be clicking on `tutorial.Rproj`. 
 
 GitHub repo with all materials is 
-[https://dicook.github.io/tutorial_highd_vis/](https://dicook.github.io/tutorial_highd_vis/).
+[https://dicook.github.io/tutorial-highd-vis/](https://dicook.github.io/tutorial-highd-vis/).
 
 # Copyright
 
